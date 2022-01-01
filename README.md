@@ -3,6 +3,8 @@ Experimental videos of Ph.D thesis "Design, testing and validation of model pred
 
 Dynamic_PS: Video related to Figure 5.3 
 
-RAL_3: Video related to chapter 6 (Cost to go function "HMPC").
+VoltageTraj: Video related to Figure 5.17
+
+RAL_3: Video related to Figure 6.5
 
 
